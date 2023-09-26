@@ -42,18 +42,8 @@ class MainActivity : AppCompatActivity() {
                             setupAdapter()
                         }
 
-                        "6x6" -> {
-                            tableSize = 6
-                            setupAdapter()
-                        }
-
                         "7x7" -> {
                             tableSize = 7
-                            setupAdapter()
-                        }
-
-                        "8x8" -> {
-                            tableSize = 8
                             setupAdapter()
                         }
 
